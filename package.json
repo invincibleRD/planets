@@ -1,0 +1,14 @@
+{
+  "name": "planets",
+  "version": "1.0.0",
+  "description": "This Web application helps to view new planets discovered by kepler telescope.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipendra Kumar Shah",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}
